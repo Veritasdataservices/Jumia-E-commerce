@@ -45,8 +45,8 @@ The dataset utilized for this analysis is **synthetic** and was programmatically
 | Question | Focus | Chart |
 | :--- | :--- | :--- |
 | **Q8.** Top Selling Products | High SKU Concentration by Potential Revenue | [![Chart](charts_output/Q8top_selling_products_12.png)](charts_output/Q8top_selling_products_12.png) |
-| **Q9.** Category Performance |Q9 Dominant Categories by Inventory Value | [![Chart](charts_output/Q9category_performance.jpg)](charts_output/Q9category_performance.jpg) |
-| **Q13.** High-Value vs High-Volume Products |Q13Strategic Portfolio Quadrant Analysis | [![Chart](charts_output/Q13highvalue_vs_highvolume_products.jpg)](charts_output/Q13highvalue_vs_highvolume_products.jpg) |
+| **Q9.** Category Performance |Q9 Dominant Categories by Inventory Value | [![Chart](charts_output/Q9category_performance.png)](charts_output/Q9category_performance.png) |
+| **Q13.** High-Value vs High-Volume Products |Q13highvalue_vs_highvolume_products.png | [![Chart](charts_output/Q13highvalue_vs_highvolume_products.png)](charts_output/Q13highvalue_vs_highvolume_products.png) |
 | **Q10.** Returns by Category (Approx.) | Estimate Return Hotspots (Data Limitation Demo) | [![Chart](charts_output/Q10returns_by_category_top10.png)](charts_output/Q10returns_by_category_top10.png) |
 
 ---
