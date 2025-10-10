@@ -1,0 +1,21 @@
+# --- Python Specific ---
+__pycache__/
+*.pyc
+*.egg-info
+venv/
+env/
+
+# --- Jupyter/IPython Specific ---
+.ipynb_checkpoints/
+
+# --- Data Science & Output ---
+# Ignore the temporary output files that Git doesn't need to track.
+charts_output/*.png
+charts_output/*.jpg
+processed/*.csv
+# NOTE: If your clean CSVs are very large, you can ignore them too, 
+# but generally, it's good to keep the clean, essential data tracked.
+
+# --- Operating System Files ---
+.DS_Store
+Thumbs.db
