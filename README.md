@@ -86,6 +86,6 @@ A connecting table, such as `order_items.csv`, is required to complete this anal
 
 
 **Recommendation:**
-* **Profit Protection:** Implement high-resolution QC processes for the top-returning categories, focusing on **standardized sizing charts for Fashion** and detailed tech specs for Electronics.
+* **Profit Protection:** Implement high-resolution QC processes for the top-returning categories, focusing on **standardized sizing charts for the top products**  
 
 ***
