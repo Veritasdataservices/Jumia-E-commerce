@@ -44,10 +44,18 @@ The dataset utilized for this analysis is **synthetic** and was programmatically
 ###  Product & Cross Analysis
 | Question | Focus | Chart |
 | :--- | :--- | :--- |
-| **Q8.** Top Selling Products | High SKU Concentration by Potential Revenue | [![Chart](charts_output/Q8top_selling_products_12.png)](charts_output/Q8top_selling_products_12.png) |
-| **Q9.** Category Performance |Q9 Dominant Categories by Inventory Value | [![Chart](charts_output/Q9category_performance.png)](charts_output/Q9category_performance.png) |
-| **Q13.** High-Value vs High-Volume Products |Q13highvalue_vs_highvolume_products.png | [![Chart](charts_output/Q13highvalue_vs_highvolume_products.png)](charts_output/Q13highvalue_vs_highvolume_products.png) |
-| **Q10.** Returns by Category (Approx.) | Estimate Return Hotspots (Data Limitation Demo) | [![Chart](charts_output/Q10returns_by_category_top10.png)](charts_output/Q10returns_by_category_top10.png) |
+| **Q8.** Top Selling Products | High SKU Concentration by Potential Revenue | [![Chart](charts_output/Q8_top_selling_products_12_green.png)](charts_output/Q8_top_selling_products_12_green.png) |
+| **Q9.** Category Performance | Dominant Categories by Inventory Value | [![Chart](charts_output/Q9category_performance.jpg)](charts_output/Q9category_performance.jpg) |
+| **Q13.** High-Value vs High-Volume Products | Strategic Portfolio Quadrant Analysis | [![Chart](charts_output/Q13highvalue_vs_highvolume_products.jpg)](charts_output/Q13highvalue_vs_highvolume_products.jpg) |
+
+#### Q10. Analysis of Order Returns
+**Chart:** [![Chart](charts_output/Q10total_orders_by_status.png)](charts_output/Q10total_orders_by_status.png)
+
+**Insight Summary:**
+- **Overall Return Volume:** Our analysis of the `jumia_orders` table shows a total of **480 orders** have a status of *Returned*.  
+- **Returns by Category (Blocked):**  
+  *Key Finding:* It is not possible to determine which product categories face the highest return rates.  
+  *Reason:* The data to link an `order_id` (from `jumia_orders`) to a `product_id` (from `jumia_products`) is not available. A connecting table, such as `order_items.csv`, is required to complete this analysis.  
 
 ---
 
@@ -72,4 +80,12 @@ The dataset utilized for this analysis is **synthetic** and was programmatically
 **Recommendation:**
 * **Profit Protection:** Implement high-resolution QC processes for the top-returning categories, focusing on **standardized sizing charts for Fashion** and detailed tech specs for Electronics.
 
-***
+---
+
+## 📊 Explore the Full Interactive Tableau Dashboard
+
+You can explore all interactive dashboards and stories for this project on Tableau Public:
+
+🔗 **[View the Jumia Sales & Customer Insights Dashboard on Tableau Public](https://public.tableau.com/views/JumiaSalesCustomerInsightsVeritasDataServices_17612746226440/IntroductoryStory?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+---
