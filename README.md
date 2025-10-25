@@ -44,10 +44,10 @@ The dataset utilized for this analysis is **synthetic** and was programmatically
 ###  Product & Cross Analysis
 | Question | Focus | Chart |
 | :--- | :--- | :--- |
-| **Q8.** Top Selling Products | High SKU Concentration by Potential Revenue | [![Chart](charts_output/Q8_top_selling_products_12_green.jpg)](charts_output/Q8_top_selling_products_12_green.jpg) |
+| **Q8.** Top Selling Products | High SKU Concentration by Potential Revenue | [![Chart](charts_output/Q8_top_selling_products_12_green.png)](charts_output/Q8_top_selling_products_12_green.png) |
 | **Q9.** Category Performance | Dominant Categories by Inventory Value | [![Chart](charts_output/Q9category_performance.png)](charts_output/Q9category_performance.png) |
 | **Q13.** High-Value vs High-Volume Products | Strategic Portfolio Quadrant Analysis | [![Chart](charts_output/Q13highvalue_vs_highvolume_products.png)](charts_output/Q13highvalue_vs_highvolume_products.png) |
-| **Q10.** Returns by Category (Approx.) | Estimate Return Hotspots (Data Limitation Demo) | [![Chart](charts_output/Q10total_orders_by_status.jpg)](charts_output/Q10total_orders_by_status.jpg) |
+| **Q10.** Returns by Category (Approx.) | Estimate Return Hotspots (Data Limitation Demo) | [![Chart](charts_output/Q10total_orders_by_status.png)](charts_output/Q10total_orders_by_status.png) |
 
 ---
 
