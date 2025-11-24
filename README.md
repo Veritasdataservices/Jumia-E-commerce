@@ -104,12 +104,18 @@ Our analysis of the `jumia_orders` table shows a total of **480 orders** have a 
 
 Below are static screenshots of the dashboards used for interactive exploration. These images are embedded as raw PNG snapshots.
 
-![](Dashboard 1.png)  
-![](Dashboard 2.png)  
-![](Dashboard 3.png)  
-![](Dashboard 4.png)  
-![](Dashboard 5.png)  
-![](Dashboard 6.png)
+![Dashboard 1](Darshboad%201.png)
+  
+![Dashboard 2](Dashboard%202.png)
+ 
+![Dashboard 3](Dashboard%203.png)
+  
+![Dashboard 4](Dashboard%204.png)
+ 
+![Dashboard 5](Dashboard%205.png)
+  
+![Dashboard 6](Dashboard%206.png)
+
 
 ---
 
@@ -125,3 +131,4 @@ Below are static screenshots of the dashboards used for interactive exploration.
 
 **Veritas Data Services** — Jumia E-commerce Data Analysis  
 © 2025 Veritas Data Services — All Rights Reserved
+
